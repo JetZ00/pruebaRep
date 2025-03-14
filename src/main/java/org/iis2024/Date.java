@@ -84,4 +84,7 @@ public class Date {
       return false;
     }
   }
+  public int getDay() {
+    return day;
+  }
 }
