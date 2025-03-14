@@ -84,5 +84,11 @@ public class Date {
       return false;
     }
   }
+ HEAD
   private String description;
+
+  public int getDay() {
+    return day;
+  }
+
 }
