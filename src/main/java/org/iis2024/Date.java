@@ -84,4 +84,5 @@ public class Date {
       return false;
     }
   }
+  private String description;
 }
